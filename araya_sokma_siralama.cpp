@@ -9,7 +9,7 @@
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    int data[10] = {6,2,4,7,6,8,1,9,3,5};
+    int data[10] = {6,2,4,7,6,8,1,9,3,12};
     int i,k, ekle;
     
     for(i = 1; i < 10; i++){
